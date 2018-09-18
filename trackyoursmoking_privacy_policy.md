@@ -1,4 +1,5 @@
-## PRIVACY POLICY
+# PRIVACY POLICY 
+## Quit Smoking Timer - Smoke less, quit your habit!
 
 Selfshaper built the Quit Smoking Timer - Smoke less, quit your habit! app as an Ad Supported app. This SERVICE is provided by Selfshaper at no cost and is intended for use as is.
 
@@ -61,21 +62,3 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
