@@ -17,11 +17,11 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-[Google Play Services](url)
-[AdMob](url)
-[Firebase Analytics](url)
-[Fabric](url)
-[Crashlytics](url)
+- [Google Play Services](url)
+- [AdMob](url)
+- [Firebase Analytics](url)
+- [Fabric](url)
+- [Crashlytics](url)
 
 ### Log Data
 
